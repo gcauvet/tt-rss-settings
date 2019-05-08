@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Wed, 08 May 2019 17:18:22 +0000</dateCreated>
+    <title>Framanews Feed Export</title>
+  </head>
+  <body>
+    <outline text="Dev">
+      <outline type="rss" text="JavaScript" xmlUrl="https://www.reddit.com/r/javascript/.rss" htmlUrl="https://www.reddit.com/r/javascript/"/>
+      <outline type="rss" text="Web dev" xmlUrl="https://www.reddit.com/r/webdev/.rss" htmlUrl="https://www.reddit.com/r/webdev/"/>
+      <outline type="rss" text="Je suis un dev" xmlUrl="http://www.jesuisundev.fr/feed/" htmlUrl="http://www.jesuisundev.fr"/>
+    </outline>
+    <outline text="Comics">
+      <outline type="rss" text="Dungeon Skippers" xmlUrl="http://www.dungeon-skippers.fr/?feed=rss2" htmlUrl="http://www.dungeon-skippers.fr"/>
+      <outline type="rss" text="Erma" xmlUrl="https://tapastic.com/rss/series/23931" htmlUrl="https://tapastic.com/series/23931"/>
+      <outline type="rss" text="CommitStrip" xmlUrl="http://www.commitstrip.com/fr/feed/" htmlUrl="http://www.commitstrip.com"/>
+      <outline type="rss" text="HOP" xmlUrl="http://www.luc-damas.fr/humeurs/feed/" htmlUrl="http://www.luc-damas.fr/humeurs"/>
+      <outline type="rss" text="MGDMT" xmlUrl="http://thepunchlineismachismo.com/feed" htmlUrl="http://thepunchlineismachismo.com"/>
+      <outline type="rss" text="Tu mourras moins bête" xmlUrl="http://tumourrasmoinsbete.blogspot.com/feeds/posts/default" htmlUrl="http://tumourrasmoinsbete.blogspot.com/"/>
+      <outline type="rss" text="bouletcorp" xmlUrl="http://www.bouletcorp.com/feed/" htmlUrl="http://www.bouletcorp.com"/>
+      <outline type="rss" text="Grise Bouille" xmlUrl="https://grisebouille.net/feed/" htmlUrl="https://grisebouille.net"/>
+      <outline type="rss" text="ab absurdo" xmlUrl="http://absurdo.lapin.org/fluxrss.xml" htmlUrl="http://comics.lapin.org/absurdo"/>
+    </outline>
+    <outline text="Firearms">
+      <outline type="rss" text="Reinho" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=reinho01" htmlUrl="https://www.youtube.com/channel/UCSvRkwN6t2-Kutrjjv2AioA"/>
+      <outline type="rss" text="Antre du Dingo Dingchavez" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Scrunchie90" htmlUrl="https://www.youtube.com/channel/UC8RO6befAHMCxMeqEc0bnqg"/>
+      <outline type="rss" text="Michel Bottreau-Blauwart" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BottreauBlauwart" htmlUrl="https://www.youtube.com/channel/UC1fayzaWmqrgEAkrUeT6NPQ"/>
+      <outline type="rss" text="22plinkster" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=22plinkster" htmlUrl="https://www.youtube.com/channel/UC5lvNBwPlYDB-9-uQoY2jIg"/>
+      <outline type="rss" text="Gear Locker" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=IpakGearLocker" htmlUrl="https://www.youtube.com/channel/UC4B3MCi-egoxfKd73j66rlw"/>
+      <outline type="rss" text="DemolitionRanch" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=DemolitionRanch" htmlUrl="https://www.youtube.com/channel/UCBvc7pmUp9wiZIFOXEp1sCg"/>
+      <outline type="rss" text="KhanSeb" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=KhanSeb" htmlUrl="https://www.youtube.com/channel/UCsMeMKjPWetMqoZRbF4W8pA"/>
+      <outline type="rss" text="Military Arms Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Sturmgewehre" htmlUrl="https://www.youtube.com/channel/UCZ-qxagOkAmCEP-Tu6YliUQ"/>
+      <outline type="rss" text="code- Rno" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNWs0QTTHm7yiPMwl0aynsg" htmlUrl="https://www.youtube.com/channel/UCNWs0QTTHm7yiPMwl0aynsg"/>
+      <outline type="rss" text="hickok45" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=hickok45" htmlUrl="https://www.youtube.com/channel/UCvB3solmhqtgDeLpD-yTtfg"/>
+    </outline>
+    <outline text="Podcast">
+      <outline type="rss" text="Andy Rawls" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBwNg2ZtfQAY4zvBbryDyAQ" htmlUrl="https://www.youtube.com/channel/UCBwNg2ZtfQAY4zvBbryDyAQ"/>
+      <outline type="rss" text="ALT 236" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1KxoDAzbWOWOhw5GbsE-Bw" htmlUrl="https://www.youtube.com/channel/UC1KxoDAzbWOWOhw5GbsE-Bw"/>
+      <outline type="rss" text="Axolot" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Axolotblog" htmlUrl="https://www.youtube.com/channel/UC2_OG1L8DLTzQ7UrZVOk7OA"/>
+      <outline type="rss" text="Patrick Adair Designs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ82SlfYWJag5794tE64ZZA" htmlUrl="https://www.youtube.com/channel/UCJ82SlfYWJag5794tE64ZZA"/>
+      <outline type="rss" text="LEMMiNO" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Top10Memes" htmlUrl="https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q"/>
+      <outline type="rss" text="LastWeekTonight" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ" htmlUrl="http://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ"/>
+      <outline type="rss" text="LinksTheSun" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfXXAQ-mp1uUcvSpvMcAAtw" htmlUrl="http://www.youtube.com/channel/UCfXXAQ-mp1uUcvSpvMcAAtw"/>
+      <outline type="rss" text="Extra Credits" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCODtTcd5M1JavPCOr_Uydg" htmlUrl="http://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg"/>
+      <outline type="rss" text="Tu mourras moins bête" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKtG_lXZk4pRJkapfK0eprA" htmlUrl="https://www.youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA"/>
+      <outline type="rss" text="OffTheRanch" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=mlcarriker" htmlUrl="https://www.youtube.com/channel/UCV5mGxp-rtsGDAedDYnp7hA"/>
+      <outline type="rss" text="Linguisticae" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCofQxJWd4qkqc7ZgaLkZfcw" htmlUrl="https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw"/>
+      <outline type="rss" text="Nota Bene" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=notabenemovies" htmlUrl="https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A"/>
+    </outline>
+    <outline text="OpenSource">
+      <outline type="rss" text="La Quadrature du Net" xmlUrl="https://www.laquadrature.net/en/rss.xml" htmlUrl="https://www.laquadrature.net"/>
+      <outline type="rss" text="Framablog" xmlUrl="https://framablog.org/feed/" htmlUrl="https://framablog.org"/>
+    </outline>
+    <outline text="Games">
+      <outline type="rss" text="Bob Lennon" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=fantabobgames" htmlUrl="https://www.youtube.com/channel/UCo0U1tbk3YbqiLDhkeWOviQ"/>
+      <outline type="rss" text="Humble Mumble" xmlUrl="http://blog.humblebundle.com/rss" htmlUrl="http://blog.humblebundle.com/"/>
+      <outline type="rss" text="† Binding of Isaac" xmlUrl="http://bindingofisaac.com/rss" htmlUrl="http://bindingofisaac.com/"/>
+      <outline type="rss" text="Bazar du Grenier" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCMxHHciWRBBouzk-PGzmtQ" htmlUrl="https://www.youtube.com/channel/UCCMxHHciWRBBouzk-PGzmtQ"/>
+      <outline type="rss" text="Joueur Du Grenier" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_yP2DpIgs5Y1uWC0T03Chw" htmlUrl="http://www.youtube.com/channel/UC_yP2DpIgs5Y1uWC0T03Chw"/>
+    </outline>
+    <outline text="Music">
+      <outline type="rss" text="Art of Dance" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=officialartofdance" htmlUrl="https://www.youtube.com/channel/UCWA006v5cHRVqJvwlzRxuHg"/>
+      <outline type="rss" text="BKJNevents" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BKJNevents" htmlUrl="https://www.youtube.com/channel/UCug3A5lr-Z9BnSM-JCouqbA"/>
+      <outline type="rss" text="BassTek" xmlUrl="https://www.basstek.fr/feed/" htmlUrl="https://www.basstek.fr"/>
+      <outline type="rss" text="Dr. Peacock" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Sjaakobs" htmlUrl="https://www.youtube.com/channel/UCsq3H3cTxvDU1Mktk1DQVkA"/>
+      <outline type="rss" text="FrenchcoreRadio" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvj8WT8yHwgyNlZipD_TXRw" htmlUrl="https://www.youtube.com/channel/UCvj8WT8yHwgyNlZipD_TXRw"/>
+      <outline type="rss" text="Masters of Hardcore" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOizSvluYNmho0roIe0rqzg" htmlUrl="https://www.youtube.com/channel/UCOizSvluYNmho0roIe0rqzg"/>
+      <outline type="rss" text="MindPumper" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0XfwbirHTjYeTTUI6J2nrg" htmlUrl="https://www.youtube.com/channel/UC0XfwbirHTjYeTTUI6J2nrg"/>
+      <outline type="rss" text="Sefa" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZpHk06_nhe7C6n0tD1mt_w" htmlUrl="https://www.youtube.com/channel/UCZpHk06_nhe7C6n0tD1mt_w"/>
+      <outline type="rss" text="Q-dance" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAEwCfBRlB3jIY9whEfSP5Q" htmlUrl="http://www.youtube.com/channel/UCAEwCfBRlB3jIY9whEfSP5Q"/>
+      <outline type="rss" text="b2s" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVLolPmtm4IPMHx5k0GISHg" htmlUrl="http://www.youtube.com/channel/UCVLolPmtm4IPMHx5k0GISHg"/>
+      <outline type="rss" text="/r/Hardstyle" xmlUrl="https://www.reddit.com/r/hardstyle/.rss" htmlUrl="https://www.reddit.com/r/hardstyle/"/>
+      <outline type="rss" text="Frenchcore!" xmlUrl="https://www.reddit.com/r/Frenchcore/.rss" htmlUrl="https://www.reddit.com/r/Frenchcore/"/>
+    </outline>
+    <outline text="Misc">
+      <outline type="rss" text="Odieux Connard" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDyyFxXcMKrRLc6QM2OlRwA" htmlUrl="https://www.youtube.com/channel/UCDyyFxXcMKrRLc6QM2OlRwA"/>
+      <outline type="rss" text="Le mot du jour" xmlUrl="http://lemotdujour.info/feed/" htmlUrl="http://lemotdujour.info"/>
+      <outline type="rss" text="Se Coucher Moins Bête" xmlUrl="http://secouchermoinsbete.fr/feeds.atom" htmlUrl="http://secouchermoinsbete.fr/"/>
+      <outline type="rss" text="Je t'encule Thérèse" xmlUrl="http://www.jetenculetherese.net/feed/" htmlUrl="http://www.jetenculetherese.net"/>
+      <outline type="rss" text="Odieux connard" xmlUrl="https://unodieuxconnard.com/feed/" htmlUrl="https://unodieuxconnard.com"/>
+      <outline type="rss" text="Journal d'un avocat" xmlUrl="http://www.maitre-eolas.fr/feed/atom" htmlUrl="http://www.maitre-eolas.fr/"/>
+    </outline>
+    <outline text="Science">
+      <outline type="rss" text="AsapSCIENCE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA" htmlUrl="https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA"/>
+      <outline type="rss" text="Couleur science" xmlUrl="http://couleur-science.eu/rss.php" htmlUrl="http://couleur-science.eu/"/>
+      <outline type="rss" text="Kurzgesagt" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Kurzgesagt" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline type="rss" text="ScienceEtonnante" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ScienceEtonnante" htmlUrl="https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA"/>
+      <outline type="rss" text="DirtyBiology" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=dirtybiology" htmlUrl="https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q"/>
+      <outline type="rss" text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=1veritasium" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+      <outline type="rss" text="e-penser" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=epenser1" htmlUrl="https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q"/>
+      <outline type="rss" text="Mickaël Launay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4PasDd25MXqlXBogBw9CAg" htmlUrl="https://www.youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg"/>
+    </outline>
+    <outline text="Media">
+      <outline type="rss" text="France" xmlUrl="https://www.reddit.com/r/france/.rss" htmlUrl="https://www.reddit.com/r/france/"/>
+      <outline type="rss" text="Reflets" xmlUrl="https://reflets.info/feed/" htmlUrl="https://reflets.info"/>
+    </outline>
+    <outline text="IT">
+      <outline type="rss" text="Syntax - Tasty Web Development Treats" xmlUrl="http://feed.syntax.fm/rss" htmlUrl="https://syntax.fm"/>
+      <outline type="rss" text="Arfy'z" xmlUrl="http://www.arfy.fr/dotclear/index.php?feed/atom" htmlUrl="http://www.arfy.fr/dotclear/index.php?"/>
+      <outline type="rss" text="Gcauvet-dev" xmlUrl="https://gcauvet-dev.com/rss.php" htmlUrl="https://blog.gcauvet-dev.com/?mode=blog"/>
+      <outline type="rss" text="Korben - Blog" xmlUrl="http://korben.info/feed" htmlUrl="http://korben.info"/>
+      <outline type="rss" text="NullPointerException" xmlUrl="https://blog.imirhil.fr/feed.xml" htmlUrl="https://blog.imirhil.fr/"/>
+      <outline type="rss" text="Warrior du Dimanche" xmlUrl="http://warriordudimanche.net/feed/rss" htmlUrl="http://warriordudimanche.net/"/>
+      <outline type="rss" text="le hollandais volant" xmlUrl="https://lehollandaisvolant.net/rss.php" htmlUrl="https://lehollandaisvolant.net/"/>
+      <outline type="rss" text="{niKo[piK]}" xmlUrl="https://www.nikopik.com/feed" htmlUrl="https://www.nikopik.com"/>
+      <outline type="rss" text="Sebsauvage" xmlUrl="http://sebsauvage.net/links/?do=atom" htmlUrl="http://sebsauvage.net/links/"/>
+      <outline type="rss" text="Le Hollandais Volant S" xmlUrl="http://lehollandaisvolant.net/rss.php?mode=links" htmlUrl="https://lehollandaisvolant.net/?mode=links"/>
+      <outline type="rss" text="David Walsh Blog" xmlUrl="https://davidwalsh.name/feed" htmlUrl="https://davidwalsh.name"/>
+    </outline>
+    <outline text="tt-rss-prefs" schema-version="134">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="false"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="15"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="true"/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="480"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="7"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="false"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="USER_CSS_THEME" value="night.css"/>
+      <outline pref-name="USER_LANGUAGE" value="en_US"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="_ENABLED_PLUGINS" value="af_redditimgur,af_youtube_embed,shaarli"/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="134"/>
+    <outline text="tt-rss-filters" schema-version="134"/>
+  </body>
+</opml>
