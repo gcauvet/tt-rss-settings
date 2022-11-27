@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Fri, 09 Apr 2021 05:45:42 +0000</dateCreated>
+    <dateCreated>Sun, 27 Nov 2022 12:52:17 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
+    <outline text="History" ttrssSortOrder="0">
+      <outline type="rss" text="C'est une autre histoire" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKjDY4joMPcoRMmd-G1yz1Q" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q"/>
+      <outline type="rss" text="Mamytwink" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjxfoYq1vAEGU7KD_C3I48g" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCjxfoYq1vAEGU7KD_C3I48g"/>
+      <outline type="rss" text="Nota Bene" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=notabenemovies" ttrssSortOrder="7" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A"/>
+    </outline>
+    <outline text="Japan" ttrssSortOrder="0">
+      <outline type="rss" text="Ici Japon Corp." xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_R99mJdkzksbgeedOyLbKw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC_R99mJdkzksbgeedOyLbKw"/>
+      <outline type="rss" text="Louis-San" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqfANd8RDXTcQddXMwwgUmA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCqfANd8RDXTcQddXMwwgUmA"/>
+      <outline type="rss" text="Mitsu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE6boYgC8kv-C-5vH2juNCA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCE6boYgC8kv-C-5vH2juNCA"/>
+      <outline type="rss" text="Tev &amp; Louis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC97S5Uiopake8FiOLCy3rkg" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC97S5Uiopake8FiOLCy3rkg"/>
+      <outline type="rss" text="Tev - Ici Japon" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=IciJapon" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCeGEv5MBdmGMgZFPrAlEmFA"/>
+    </outline>
     <outline text="Lockpicking" ttrssSortOrder="0">
-      <outline type="rss" text="BosnianBill's LockLab" xmlUrl="https://locklab.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://locklab.com"/>
       <outline type="rss" text="Side Noob" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWUMQjPNNkKIUXeIRLAqUMg" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCWUMQjPNNkKIUXeIRLAqUMg"/>
     </outline>
+    <outline text="Mangas" ttrssSortOrder="0">
+      <outline type="rss" text="Dernières Sorties Ajin" xmlUrl="https://www.japscan.ws/rss/ajin/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.japscan.se"/>
+      <outline type="rss" text="Dernières Sorties One Piece" xmlUrl="https://www.japscan.ws/rss/one-piece/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.japscan.ws"/>
+      <outline type="rss" text="Dernières Sorties One Punch Man" xmlUrl="https://www.japscan.ws/rss/one-punch-man/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.japscan.ws"/>
+      <outline type="rss" text="Jeremy_Sensei" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHrKk_FHG61_wOwt7oV09wQ" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCHrKk_FHG61_wOwt7oV09wQ"/>
+    </outline>
+    <outline text="MTG" ttrssSortOrder="0">
+      <outline type="rss" text="Alpha Investments" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTp-iVOtTrKau0skmfZlo5Q" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCTp-iVOtTrKau0skmfZlo5Q"/>
+      <outline type="rss" text="EDHRECast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCApiDwDpn_JpzRGLZKrdr1g" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCApiDwDpn_JpzRGLZKrdr1g"/>
+      <outline type="rss" text="FishMTG" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIYleuxipyLdByUcPvyPtFw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCIYleuxipyLdByUcPvyPtFw"/>
+      <outline type="rss" text="Good Morning Magic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvE8Mza7uRuiYlwiSDyJi9A" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A"/>
+      <outline type="rss" text="I Hate Your Deck" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC49yhqNCSxwpjiObYSsI1oA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC49yhqNCSxwpjiObYSsI1oA"/>
+      <outline type="rss" text="MagicCorporation" xmlUrl="http://www.magiccorporation.com/gathering-news-last-rss.html" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.magiccorporation.com"/>
+      <outline type="rss" text="Rhystic Studies" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8e0Sg8TmRRFJytjEGhmVTg" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg"/>
+      <outline type="rss" text="RSS Feed - Magic: The Gathering" xmlUrl="https://magic.wizards.com/en/rss/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://magic.wizards.com"/>
+      <outline type="rss" text="The Command Zone" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLsiaNUb42gRAP7ewbJ0ecQ" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ"/>
+      <outline type="rss" text="The Commander's Quarters" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-w5MNByr4SNy3z2232sj0g" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC-w5MNByr4SNy3z2232sj0g"/>
+      <outline type="rss" text="Tolarian Community College" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7-hR5EfgpM6oHfiGDkxfMA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA"/>
+    </outline>
     <outline text="Comics" ttrssSortOrder="1">
-      <outline type="rss" text="Dilbert Daily Strip" xmlUrl="http://feed.dilbert.com/dilbert/daily_strip" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://dilbert.com"/>
       <outline type="rss" text="Feræ Narratio Picta" xmlUrl="http://taniere.info/fnp/rss/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://taniere.info/fnp"/>
+      <outline type="rss" text="https://cinismoilustrado.com/" xmlUrl="https://cinismoilustrado.com/rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://cinismoilustrado.com/"/>
       <outline type="rss" text="MonkeyUser" xmlUrl="https://www.monkeyuser.com/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.monkeyuser.com"/>
+      <outline type="rss" text="Work Chronicles" xmlUrl="https://workchronicles.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://workchronicles.com"/>
       <outline type="rss" text="ab absurdo" xmlUrl="http://absurdo.lapin.org/fluxrss.xml" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="http://comics.lapin.org/absurdo"/>
       <outline type="rss" text="bouletcorp" xmlUrl="http://www.bouletcorp.com/feed/" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="http://www.bouletcorp.com"/>
       <outline type="rss" text="CommitStrip" xmlUrl="http://www.commitstrip.com/fr/feed/" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="http://www.commitstrip.com"/>
@@ -24,21 +55,20 @@
     <outline text="Firearms" ttrssSortOrder="2">
       <outline type="rss" text="22plinkster" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=22plinkster" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC5lvNBwPlYDB-9-uQoY2jIg"/>
       <outline type="rss" text="Antre du Dingo Dingchavez" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Scrunchie90" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC8RO6befAHMCxMeqEc0bnqg"/>
-      <outline type="rss" text="code- Rno" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNWs0QTTHm7yiPMwl0aynsg" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCNWs0QTTHm7yiPMwl0aynsg"/>
       <outline type="rss" text="DemolitionRanch" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=DemolitionRanch" ttrssSortOrder="4" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCBvc7pmUp9wiZIFOXEp1sCg"/>
-      <outline type="rss" text="hickok45" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=hickok45" ttrssSortOrder="5" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCvB3solmhqtgDeLpD-yTtfg"/>
       <outline type="rss" text="KhanSeb" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=KhanSeb" ttrssSortOrder="6" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCsMeMKjPWetMqoZRbF4W8pA"/>
       <outline type="rss" text="Michel Bottreau-Blauwart" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BottreauBlauwart" ttrssSortOrder="7" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC1fayzaWmqrgEAkrUeT6NPQ"/>
-      <outline type="rss" text="Reinho" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=reinho01" ttrssSortOrder="8" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCSvRkwN6t2-Kutrjjv2AioA"/>
     </outline>
     <outline text="Games" ttrssSortOrder="3">
+      <outline type="rss" text="Fan The Deck" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIbmZD21ptlnFyFPAk3j5CA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCIbmZD21ptlnFyFPAk3j5CA"/>
+      <outline type="rss" text="Le SadPanda" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdIzesXC_DBD9A_p2_CV2Pw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCdIzesXC_DBD9A_p2_CV2Pw"/>
       <outline type="rss" text="PsEuDoLeSs1" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=PsEuDoLeSs1" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCrOD3fe8fXpSV4Jwx9ptALw"/>
       <outline type="rss" text="PuNkY" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdN6LUX3bz_pj2CGBhG1g-w" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCdN6LUX3bz_pj2CGBhG1g-w"/>
+      <outline type="rss" text="Sheshounet" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4peNo-31r7fhQZgu0_JRIA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC4peNo-31r7fhQZgu0_JRIA"/>
       <outline type="rss" text="Bazar du Grenier" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCMxHHciWRBBouzk-PGzmtQ" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCCMxHHciWRBBouzk-PGzmtQ"/>
       <outline type="rss" text="Bob Lennon" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=fantabobgames" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCo0U1tbk3YbqiLDhkeWOviQ"/>
       <outline type="rss" text="Humble Mumble" xmlUrl="http://blog.humblebundle.com/rss" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="http://blog.humblebundle.com/"/>
       <outline type="rss" text="Joueur Du Grenier" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_yP2DpIgs5Y1uWC0T03Chw" ttrssSortOrder="4" ttrssUpdateInterval="0" htmlUrl="http://www.youtube.com/channel/UC_yP2DpIgs5Y1uWC0T03Chw"/>
-      <outline type="rss" text="YesThereIsADeal.com - EU1 feed" xmlUrl="https://yesthereisadeal.com/feed/eu1/" ttrssSortOrder="5" ttrssUpdateInterval="0" htmlUrl="https://yesthereisadeal.com/"/>
       <outline type="rss" text="† Binding of Isaac" xmlUrl="http://bindingofisaac.com/rss" ttrssSortOrder="6" ttrssUpdateInterval="0" htmlUrl="http://bindingofisaac.com/"/>
       <outline type="rss" text="Extra Credits" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCODtTcd5M1JavPCOr_Uydg" ttrssSortOrder="7" ttrssUpdateInterval="0" htmlUrl="http://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg"/>
     </outline>
@@ -46,15 +76,12 @@
       <outline type="rss" text="Andertons Music Co" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSNxIry_FPFcQDFRbi3VOAw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCSNxIry_FPFcQDFRbi3VOAw"/>
       <outline type="rss" text="BassBuzz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeD9_tDVA1wvqv1IF9QyP-A" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCeD9_tDVA1wvqv1IF9QyP-A"/>
       <outline type="rss" text="CSGuitars" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxrmpiKC7STaDpgWQBwwGMA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCxrmpiKC7STaDpgWQBwwGMA"/>
-      <outline type="rss" text="Darrell Braun Guitar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClMRGR_QNw4Fm-3FGGyICdw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UClMRGR_QNw4Fm-3FGGyICdw"/>
       <outline type="rss" text="five watt world" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5OAMxnvhTyc3rjgpY6u8cA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC5OAMxnvhTyc3rjgpY6u8cA"/>
-      <outline type="rss" text="PMTVUK" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCb5PQHC0CsA48rlI6gefr5A" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCb5PQHC0CsA48rlI6gefr5A"/>
       <outline type="rss" text="Rob Scallon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyDZai57BfE_N0SaBkKQyXg" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCyDZai57BfE_N0SaBkKQyXg"/>
       <outline type="rss" text="Saturax" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUBjWAQMQP4D9fU1vI1SKhw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCUBjWAQMQP4D9fU1vI1SKhw"/>
       <outline type="rss" text="The Trogly's Guitar Show" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=MrTrogly" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCsNBeL5vY5GZT_g_4D3QAFQ"/>
     </outline>
     <outline text="Hard dance" ttrssSortOrder="5">
-      <outline type="rss" text="/r/Hardstyle" xmlUrl="https://www.reddit.com/r/hardstyle/.rss" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/hardstyle/"/>
       <outline type="rss" text="Alennah van Wijk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFDthbY3smFwhd_Uh4RSW4w" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCFDthbY3smFwhd_Uh4RSW4w"/>
       <outline type="rss" text="b2s" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVLolPmtm4IPMHx5k0GISHg" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="http://www.youtube.com/channel/UCVLolPmtm4IPMHx5k0GISHg"/>
       <outline type="rss" text="Art of Dance" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=officialartofdance" ttrssSortOrder="4" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCWA006v5cHRVqJvwlzRxuHg"/>
@@ -72,13 +99,12 @@
       <outline type="rss" text="Artisan Développeur" xmlUrl="https://compagnon.artisandeveloppeur.fr/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://compagnon.artisandeveloppeur.fr/"/>
       <outline type="rss" text="Ben Awad" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-8QAzbLcRglXeN_MY9blyw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw"/>
       <outline type="rss" text="Carl Chenet's Blog" xmlUrl="https://carlchenet.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://carlchenet.com"/>
-      <outline type="rss" text="DEV Community" xmlUrl="https://dev.to/feed" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://dev.to"/>
       <outline type="rss" text="DHH – Signal v. Noise" xmlUrl="https://m.signalvnoise.com/author/dhh/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://m.signalvnoise.com"/>
       <outline type="rss" text="IT Expert" xmlUrl="https://itexpert.fr/blog/rss/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://itexpert.fr"/>
       <outline type="rss" text="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://martinfowler.com"/>
       <outline type="rss" text="PunkinDev" xmlUrl="https://feed.ausha.co/BDVYOij2WP05" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://podcast.ausha.co/punkindev"/>
       <outline type="rss" text="Tim Benniks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbQu3ix36SHZjcD57BK7KUQ" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCbQu3ix36SHZjcD57BK7KUQ"/>
-      <outline type="rss" text="Arfy'z" xmlUrl="http://www.arfy.fr/dotclear/index.php?feed/atom" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="http://www.arfy.fr/dotclear/index.php?"/>
+      <outline type="rss" text="☠ Bluetouff's blog" xmlUrl="https://bluetouff.com/feed" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://bluetouff.com"/>
       <outline type="rss" text="Artisan Développeur" xmlUrl="http://artisandeveloppeur.fr/feed/" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="http://artisandeveloppeur.fr"/>
       <outline type="rss" text="Captain Web" xmlUrl="http://www.captainweb.net/feed" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="http://www.captainweb.net"/>
       <outline type="rss" text="David Walsh Blog" xmlUrl="https://davidwalsh.name/feed" ttrssSortOrder="4" ttrssUpdateInterval="0" htmlUrl="https://davidwalsh.name"/>
@@ -95,11 +121,11 @@
       <outline type="rss" text="Web FR · Boris Schapira" xmlUrl="https://boris.schapira.dev/web/feed.xml" ttrssSortOrder="15" ttrssUpdateInterval="0" htmlUrl="https://boris.schapira.dev/web/feed.xml"/>
     </outline>
     <outline text="Media" ttrssSortOrder="7">
-      <outline type="rss" text="France" xmlUrl="https://www.reddit.com/r/france/.rss" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/france/"/>
       <outline type="rss" text="Reflets" xmlUrl="https://reflets.info/feed/" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://reflets.info"/>
     </outline>
     <outline text="Misc" ttrssSortOrder="8">
       <outline type="rss" text="JeRetiens" xmlUrl="http://feeds.feedburner.com/JeRetiens?format=xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://jeretiens.net"/>
+      <outline type="rss" text="Links Off" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcctygkyqOrt4vGVlteSD8g" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCcctygkyqOrt4vGVlteSD8g"/>
       <outline type="rss" text="Journal d'un avocat" xmlUrl="http://www.maitre-eolas.fr/feed/atom" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="http://www.maitre-eolas.fr/"/>
       <outline type="rss" text="Le mot du jour" xmlUrl="http://lemotdujour.info/feed/" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="http://lemotdujour.info"/>
       <outline type="rss" text="Odieux Connard" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDyyFxXcMKrRLc6QM2OlRwA" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCDyyFxXcMKrRLc6QM2OlRwA"/>
@@ -107,13 +133,11 @@
       <outline type="rss" text="Se Coucher Moins Bête" xmlUrl="http://secouchermoinsbete.fr/feeds.atom" ttrssSortOrder="5" ttrssUpdateInterval="0" htmlUrl="http://secouchermoinsbete.fr/"/>
     </outline>
     <outline text="Mix / prod" ttrssSortOrder="9">
-      <outline type="rss" text="Bedroom Producers Blog" xmlUrl="https://bedroomproducersblog.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://bedroomproducersblog.com"/>
       <outline type="rss" text="D-Tunez" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC69lcl1ALdc7uxuL4OzqI5Q" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC69lcl1ALdc7uxuL4OzqI5Q"/>
       <outline type="rss" text="EQUAL2" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWuFJQNbitapIJYq5Yb3swA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCWuFJQNbitapIJYq5Yb3swA"/>
       <outline type="rss" text="FL STUDIO by Image-Line Software" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=imageline" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCtYw-H_L5D09T9uWeNBUvqg"/>
       <outline type="rss" text="Fragment Audio" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm9awsfS0yuHc7rB7Bi7jPg" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCm9awsfS0yuHc7rB7Bi7jPg"/>
       <outline type="rss" text="HardDanceProduction: A home for producers of the harder styles." xmlUrl="https://www.reddit.com/r/harddanceproduction.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/harddanceproduction"/>
-      <outline type="rss" text="Strob Studio Mixing &amp; Mastering" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn9eTtT3UMWPoX2BxA3_z-g" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCn9eTtT3UMWPoX2BxA3_z-g"/>
       <outline type="rss" text="ANDREW HUANG" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=songstowearpantsto" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g"/>
       <outline type="rss" text="Beat Junkies" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BeatJunkies1992" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCG6VaGoVljk3Ub6ro66qMxA"/>
       <outline type="rss" text="Crossfader" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM4u0gp8gm99w9MXQ7ZI8Mw" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCM4u0gp8gm99w9MXQ7ZI8Mw"/>
@@ -136,19 +160,24 @@
       <outline type="rss" text="La Quadrature du Net" xmlUrl="https://www.laquadrature.net/en/rss.xml" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.laquadrature.net"/>
     </outline>
     <outline text="Podcast" ttrssSortOrder="11">
+      <outline type="rss" text="Ad Immensum" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_RCaObc1IKbqf3ZSDlw1QQ" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC_RCaObc1IKbqf3ZSDlw1QQ"/>
+      <outline type="rss" text="AMMO NYC" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYsa8SOy3TkoxI5D17s1u-w" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYsa8SOy3TkoxI5D17s1u-w"/>
+      <outline type="rss" text="ChrisFix" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCes1EvRjcKU4sY_UEavndBw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCes1EvRjcKU4sY_UEavndBw"/>
+      <outline type="rss" text="LaGrandeRevue" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCahk4QqCNEPlGqRaDFDfVHw" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCahk4QqCNEPlGqRaDFDfVHw"/>
       <outline type="rss" text="Nerd of the Rings" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW0gH2G-cMKAEjEkI4YhnPA" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCW0gH2G-cMKAEjEkI4YhnPA"/>
+      <outline type="rss" text="Stuff Made Here 2" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNlBbEpwffgWefkbRm73xxQ" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCNlBbEpwffgWefkbRm73xxQ"/>
       <outline type="rss" text="ALT 236" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1KxoDAzbWOWOhw5GbsE-Bw" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC1KxoDAzbWOWOhw5GbsE-Bw"/>
       <outline type="rss" text="Axolot" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Axolotblog" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC2_OG1L8DLTzQ7UrZVOk7OA"/>
       <outline type="rss" text="LastWeekTonight" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="http://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ"/>
       <outline type="rss" text="LEMMiNO" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Top10Memes" ttrssSortOrder="4" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q"/>
       <outline type="rss" text="Linguisticae" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCofQxJWd4qkqc7ZgaLkZfcw" ttrssSortOrder="5" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw"/>
       <outline type="rss" text="LinksTheSun" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfXXAQ-mp1uUcvSpvMcAAtw" ttrssSortOrder="6" ttrssUpdateInterval="0" htmlUrl="http://www.youtube.com/channel/UCfXXAQ-mp1uUcvSpvMcAAtw"/>
-      <outline type="rss" text="Nota Bene" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=notabenemovies" ttrssSortOrder="7" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A"/>
       <outline type="rss" text="OffTheRanch" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=mlcarriker" ttrssSortOrder="8" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCV5mGxp-rtsGDAedDYnp7hA"/>
       <outline type="rss" text="Tu mourras moins bête" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKtG_lXZk4pRJkapfK0eprA" ttrssSortOrder="10" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCKtG_lXZk4pRJkapfK0eprA"/>
       <outline type="rss" text="Gear Locker" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=IpakGearLocker" ttrssSortOrder="11" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC4B3MCi-egoxfKd73j66rlw"/>
     </outline>
     <outline text="Science" ttrssSortOrder="12">
+      <outline type="rss" text="La boite à curiosités" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6ex3inSHm-O1R7QfOnd6A" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCg6ex3inSHm-O1R7QfOnd6A"/>
       <outline type="rss" text="Couleur science" xmlUrl="http://couleur-science.eu/rss.php" ttrssSortOrder="1" ttrssUpdateInterval="0" htmlUrl="http://couleur-science.eu/"/>
       <outline type="rss" text="DirtyBiology" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=dirtybiology" ttrssSortOrder="2" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q"/>
       <outline type="rss" text="e-penser" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=epenser1" ttrssSortOrder="3" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCcziTK2NKeWtWQ6kB5tmQ8Q"/>
